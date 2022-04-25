@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(1.hello_world)
+
+add_executable (hello world
+hello world.cpp
+example.cpp
+example.h
+
+)
+
+set_property(hello world
+
+CXX_STANDARD 17
+CXX_STANDARD_REQUIRED ON 
+
+) 
